@@ -57,7 +57,10 @@
     background-color: blueviolet;
     cursor: pointer;
 }
+.btn-clear{
+    background-color: rgb(168, 62, 80);
 
+}
 .btn-equal{
     background-color: rgb(168, 62, 80);
 
